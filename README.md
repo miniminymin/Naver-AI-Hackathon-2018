@@ -11,9 +11,14 @@ Character Level Embedding + Bi-directional LSTM + multi-layer CNN + Fully connec
 Mse : 2.67 **(2nd prize at final)**
 
 # 사전 수행
-$ pip install git+https://github.com/n-CLAIR/nsml-local # 대회 당시 nsml 환경 local 설치
+$ git clone https://github.com/naver/ai-hackathon.git 
+-> 해커톤 환경 구축
 
-$ pip install tf-slim # tensorflow ver 1.x에서만 지원하던 코드 변형을 위해 추가
+$ pip install git+https://github.com/n-CLAIR/nsml-local 
+-> 대회 당시 nsml 환경 local 설치
+
+$ pip install tf-slim 
+-> tensorflow ver 1.x에서만 지원하던 코드 변형을 위해 추가
 
 # Authors
 **Yongwoo Cho(조용우)**
