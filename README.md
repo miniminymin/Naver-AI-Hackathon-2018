@@ -12,6 +12,7 @@ Mse : 2.67 **(2nd prize at final)**
 
 # 사전 수행
 $ pip install git+https://github.com/n-CLAIR/nsml-local # 대회 당시 nsml 환경 local 설치
+
 $ pip install tf-slim # tensorflow ver 1.x에서만 지원하던 코드 변형을 위해 추가
 
 # Authors
