@@ -33,6 +33,9 @@ Character Level Embedding + Bi-directional LSTM + multi-layer CNN + Fully connec
 # Score
 Mse : 2.67 **(2nd prize at final)**
 
+# 사전 수행
+$ pip install git+https://github.com/n-CLAIR/nsml-local # 대회 당시 nsml 환경 local 설치
+
 # Authors
 **Yongwoo Cho(조용우)**
 - https://nomorecoke.github.io
